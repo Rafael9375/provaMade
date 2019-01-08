@@ -1,0 +1,9 @@
+C:\Users\Rafa\Desktop\ProvaMade\ProvaMade\bin\Debug\ProvaMade.exe.config
+C:\Users\Rafa\Desktop\ProvaMade\ProvaMade\bin\Debug\ProvaMade.exe
+C:\Users\Rafa\Desktop\ProvaMade\ProvaMade\bin\Debug\ProvaMade.pdb
+C:\Users\Rafa\Desktop\ProvaMade\ProvaMade\obj\Debug\ProvaMade.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Desktop\ProvaMade\ProvaMade\obj\Debug\ProvaMade.exe
+C:\Users\Rafa\Desktop\ProvaMade\ProvaMade\obj\Debug\ProvaMade.pdb
+C:\Users\Rafa\Source\Repos\provaMade\ProvaMade\ProvaMade\bin\Debug\ProvaMade.exe.config
+C:\Users\Rafa\Source\Repos\provaMade\ProvaMade\ProvaMade\obj\Debug\ProvaMade.exe
+C:\Users\Rafa\Source\Repos\provaMade\ProvaMade\ProvaMade\obj\Debug\ProvaMade.pdb
