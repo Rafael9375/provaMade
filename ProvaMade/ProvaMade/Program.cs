@@ -68,6 +68,8 @@ namespace ProvaMade
             }
 
 
+
+
             listaNova = new List<Palavras>();
             listaNova = listaOrdenada.ToList();
             
